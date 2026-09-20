@@ -1,0 +1,75 @@
+{
+  "version": "1.2.0",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 35,
+      "sha256": "4409b253ac33acb862192f9cad8583ed3fe0bac938082a6cfa784d7cf0d185ef"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 206,
+      "sha256": "c87f1865be640351dd5faa237571d87055f79481b551a2d0fc756e361caec029"
+    },
+    {
+      "path": "README.md",
+      "bytes": 868,
+      "sha256": "e0fd449b2da77c8d5ec9d81db86d756a811491de9f6fdec330f0eded56435c3c"
+    },
+    {
+      "path": "Start-RAYLA.ps1",
+      "bytes": 309,
+      "sha256": "4ebf138d9dafaa4456f5a0005ca7b3799b7c09fb9d32582cde0a3f67fe28e8bc"
+    },
+    {
+      "path": "app.py",
+      "bytes": 421,
+      "sha256": "3f73d789d33523e264cfeb507b608909f3f67a92d6bc1dac0fafbf03fd785462"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "bytes": 352,
+      "sha256": "489d22aefb8f28013760f84251195135e2b76aa5e2a22f3b25f2bb61984ba22e"
+    },
+    {
+      "path": "requirements-dev.txt",
+      "bytes": 33,
+      "sha256": "b2cf40cfde63ffcd654d233d12aebeb06ea2092d1cbd22aa25c34efacfcfd804"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 29,
+      "sha256": "c40ac14c80d3bb2f2c899f2e601d8f4659859252a95e147cca845f3d93fc5f95"
+    },
+    {
+      "path": "start.sh",
+      "bytes": 210,
+      "sha256": "3eba13b5f6d9b4e25243623e839965d8b724b35526f3a48ee713b5326d050652"
+    },
+    {
+      "path": "static/app.js",
+      "bytes": 13546,
+      "sha256": "4d9dc5973e1b43be4e9cae48654d079aeb7885a2587cccb60b6b12eda1cd3220"
+    },
+    {
+      "path": "static/index.html",
+      "bytes": 2718,
+      "sha256": "28f84e3b5e58725d232f0deb37dbeb36f42b758a893428d6a886ecab3d31af5d"
+    },
+    {
+      "path": "static/styles.css",
+      "bytes": 3318,
+      "sha256": "4bfc7f0c957930aff0dca88a756e1a1992beafed834954b58b687fc606aea3b8"
+    },
+    {
+      "path": "tests/test_app.py",
+      "bytes": 215,
+      "sha256": "51049d32cb11bbfaf874317407e32a484410bd6b744523912fe9fd02bec335cf"
+    },
+    {
+      "path": "tests/test_static.py",
+      "bytes": 465,
+      "sha256": "919f21944c9b22048d5d11e5385d16472e597408d6b286307cbffe58deb211c3"
+    }
+  ]
+}
