@@ -1,0 +1,18 @@
+VALIDATION
+PASS index.html
+PASS static/styles.css
+PASS static/js/app.js
+PASS static/js/storage.js
+PASS server.py
+PASS README.md
+PASS manifest.webmanifest
+PASS service-worker.js
+Validation passed.
+
+TESTS
+test_server (test_smoke.Smoke.test_server) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 3.224s
+
+OK

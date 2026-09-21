@@ -1,7 +1,5 @@
 # Architecture
-- Flask and Waitress loopback server.
-- Background, persistent drawing, and bounded effects layers.
-- Iterative flood fill without recursion.
-- Pressure, velocity, coordinate smoothing, opacity, flow, and size inputs.
-- `rayla.creative-session.v1` reproducibility schema.
-- No accounts, tracking, cloud APIs, cookies, or remote uploads.
+The system separates presentation, project persistence, rendering, exports, offline caching, and local serving. Projects persist in IndexedDB under a versioned schema. Rendering uses a background canvas, ordered paint canvases, and a transient effects canvas. All exports are explicitly user initiated.
+
+## Future state
+Move compute-intensive fill and image transforms into Web Workers. Introduce a command bus for deterministic history, a portable project bundle, and generated compatibility migrations for previous schema versions.

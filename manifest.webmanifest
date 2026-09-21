@@ -1,0 +1,9 @@
+{
+  "name": "Rayla's Creative Materials Lab",
+  "short_name": "Rayla Lab",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff7ed",
+  "theme_color": "#8b5cf6",
+  "icons": []
+}
